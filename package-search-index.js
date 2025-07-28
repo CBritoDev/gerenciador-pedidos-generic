@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.carlosbrito.dao"},{"l":"br.com.carlosbrito.facade"},{"l":"br.com.carlosbrito.interfaces"},{"l":"br.com.carlosbrito.main"},{"l":"br.com.carlosbrito.model"},{"l":"br.com.carlosbrito.teste"},{"l":"br.com.carlosbrito.util"}];updateSearchResults();
